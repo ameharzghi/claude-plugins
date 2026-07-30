@@ -1,0 +1,14 @@
+{
+  "name": "amanuel-daily-plugins",
+  "owner": {
+    "name": "Amanuel Meharzghi"
+  },
+  "plugins": [
+    {
+      "name": "daily-assistant",
+      "displayName": "Daily Assistant",
+      "source": "./daily-assistant",
+      "description": "Summarize your inbox, draft replies to messages that need one, and turn today's calendar into a simple timetable."
+    }
+  ]
+}
