@@ -1,0 +1,8 @@
+{
+  "name": "daily-assistant",
+  "description": "Summarize your inbox, draft replies to messages that need one, and turn today's calendar into a simple timetable.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Amanuel Meharzghi"
+  }
+}
